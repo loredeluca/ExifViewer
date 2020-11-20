@@ -10,7 +10,7 @@ This software uses PyQt5 to implement a JPEG Image and EXIF viewer. It has the f
 ![output](https://github.com/loredeluca/ExifViewer/blob/main/file/gui.gif)
 
 ### How to install
-To build the files, you will need the [PyQt5](https://pypi.org/project/PyQt5/) and [Pillow](https://pillow.readthedocs.io/en/stable/index.html) libraries, then the program can be launched:
+To build the files, you will need the [PyQt 5.15.1](https://pypi.org/project/PyQt5/) and [Pillow 6.0.0](https://pillow.readthedocs.io/en/stable/index.html) libraries, then the program can be launched:
 ```sh
 $ python3 exifViewer.py
 ```
