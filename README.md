@@ -1,4 +1,4 @@
-# ImageExif-Viewer
+# Image-Exif Viewer
 This software uses PyQt5 to implement a JPEG Image and EXIF viewer. It has the following characteristics:
 - **View multiple images**: allow the user to add/remove more than one image from a file selector with controls for switching to next/previous image in the list.
 - **Visualization of images**: your JPEG images can be scaled to have a maximum dimension (height or width) of 512 pixels.
